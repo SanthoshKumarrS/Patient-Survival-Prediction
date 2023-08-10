@@ -3,7 +3,7 @@ from prediction import pred
 import streamlit as st 
 import numpy as np
 
-model = keras.models.load_model('C:\Santhosh\Patient-Survival-Prediction-Project\Model\patient_model_at_epoch_20.h5')
+model = keras.models.load_model('Model/patient_model_at_epoch_20.h5')
 
 
 
