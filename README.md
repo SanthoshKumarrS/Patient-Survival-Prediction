@@ -11,7 +11,7 @@ In this repository, I've developed a Deep Neural Network model to predict patien
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://patient-survival-prediction-r5zj.onrender.com)
 
-** App may take a minute or 2 to load Since it's deployed in the Freemium server. 
+** App may take a minute or 2 to load Since it's deployed in the Freemium server**. 
 
 **Key challenge:** 
 
